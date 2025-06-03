@@ -14,7 +14,7 @@ Each decision leads to different story paths and multiple possible endings, crea
 ## Project Structure
 
 ```
-Choose-Adventure-Game/
+Choose_Adventure_Game/
 │
 ├── app.py                  # Flask backend with story logic
 ├── templates/
